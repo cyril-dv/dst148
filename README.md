@@ -4,5 +4,5 @@ The collection of assignments compeleted during the Skillfactory data science co
 
 ## Projects 
 * [Number guessing game](number_guessing/)
-* ..
-* ..
+* ...
+* ...
