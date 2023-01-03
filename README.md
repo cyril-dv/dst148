@@ -3,6 +3,6 @@
 The collection of assignments compeleted during the Skillfactory data science course.
 
 ## Projects 
-* [Number guessing game](number_guessing/README.md)
+* [Number guessing game](number_guessing/)
 * ..
 * ..
