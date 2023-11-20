@@ -1,7 +1,7 @@
 # New York City Taxi Trip Duration
 
 
-## Project description
+## Project description 
 The project involves predicting the duration of taxi rides using a copy of [New York City Taxi Trip Duration](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview) dataset and answering a predetermined list of step-by-step questions on learning management system. The models used in this project include: linear regression (with polynomial features and L2 regularization), decision trees, random forest and gradient boosted decision trees. The metric used to measure a model's performance, per Kaggle competition rules, is root mean squared log error (RMSLE).
 
 
