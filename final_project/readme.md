@@ -2,7 +2,7 @@
 
 
 ## Project description
-For the final project consists of the development of credit default risk model for a retail bank using a publicly available data in [Kaggle competition](https://www.kaggle.com/competitions/home-credit-default-risk). The source data set contains information about current and past loan applications in seven tables with over 200 variables describing applicant characteristics, credit history and behavior traits. The main table with current loan applications contains 122 variables that are divided into 12 groups for easier EDA and feature selection. 
+The final project involves the development of credit default risk model for a retail bank using a publicly available data from [the Kaggle competition](https://www.kaggle.com/competitions/home-credit-default-risk). The source data set contains information about current and past loan applications in seven tables with over 200 variables describing applicant characteristics, credit history and behavior traits. The main table with current loan applications contains 122 variables that are divided into 12 groups for easier EDA and feature selection. 
 
 Using gradient boosted decision trees the model is developed to predict the target variable that is described by data provider as an occurrence of a late payment of more than X days on at least one of the first Y installments of the loan in the sample. Prediction by the model, expressed as a probability of positive event, is evaluated using area under the ROC Curve metric.
 
